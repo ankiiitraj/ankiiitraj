@@ -10,4 +10,4 @@
 
     - 👨🏽‍💻 👩🏽‍💻 House of Geeks - [visit](https://houseofgeeks.netlify.app) | Hg Communtiy official website. Curated with Collabration and Open Source.
         
-- 📫 How to reach me: [Linkedin](https://linkedin.com/in/ankkiiitraj)
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/ankiiitraj)
