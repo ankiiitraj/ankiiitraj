@@ -1,16 +1,18 @@
 ### Hi there 👋
+- 🔭 Projects I’m currently working on
 
-<!--
-**ankiiitraj/ankiiitraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    - Chef'sCamp - [visit](https://chefscamp.tech)
+        - A coding platform to search and practice coding ploblems from CodeChef.
+    
+    - Doto - [visit](https://doto.netlify.app) 
+      - DoTo contains handpicked problems for DSA 
+        mastery. It allows you to track your progress.
 
-Here are some ideas to get you started:
+    - Sorting Wait! - [visit](https://ankiiitraj.github.io/sorting-wait)
+        - Algorithmic visualizer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - House of Geeks - [visit](https://houseofgeeks.netlify.app)
+        - Hg Communtiy official website. 
+        - Curated with Collabration and Open Source.
+        
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/ankkiiitraj)
