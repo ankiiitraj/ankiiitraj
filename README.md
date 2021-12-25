@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 Projects I’m currently working on
 
-    - ✅ Chef'sCamp - [visit](https://chefscamp.tech) | Coding platform to search and practice coding ploblems from CodeChef.
+    - ✅ Chef'sCamp - [visit](https://chefscamp.netlify.app) | Coding platform to search and practice coding ploblems from CodeChef.
     
-    - 🤜 🤛 Doto - [visit](https://dotodsa.netlify.app) | DoTo contains handpicked problems for DSA 
+    - 🤜 🤛 Doto - [visit](https://doto.codes) | DoTo contains handpicked problems for DSA 
         mastery. It allows you to track your progress.
 
     - 👌🏼 Visualrithms! - [visit](https://visualrithms.netlify.app) | Algorithmic visualizer
